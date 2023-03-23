@@ -37,7 +37,9 @@
 
 ### About Associate Professor Wang Qixing
 
-![image](imgs/qxw.jpg)
+
+<img src="imgs/qxw.jpg" width = "240" height = "310" alt="wqx" align=center />
+
 
 **Wang Qixing**, Ph.D., Associate Professor, and Ph.D. supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. He was selected for the "Xiamen University Nanqiang Outstanding Young Talent Plan (Category B)". His research interests include low-dimensional semiconductor optoelectronic devices and optics. He has published more than 20 SCI papers in international high-impact journals such as Nat. Commun., Nano Lett., and ACS Nano. Each year, he recruits 1-2 Ph.D. students in condensed matter physics, semiconductor physics, and semiconductor device physics ("application-assessment system") and 2-3 master's students. 
 
@@ -49,7 +51,7 @@
 
 
 
-## 3. Representative Achievements
+## 3. Representative Publications
 
 1. Q. Wang, J. Maisch, F. Tang, D. Zhao, S. Yang, R. Joos, S. L. Portalupi, P. Michler, and J. H. Smet*, Highly Polarized Single Photons from Strain-Induced Quasi-1D Localized Excitons in WSe2, **Nano Lett. 2021, 21, 7175–7182**.
 2. Q. Wang*, and A. T. S. Wee*, Upconversion Photovoltaic Effect of WS2/2D Perovskite Heterostructures by Two-Photon Absorption, **ACS Nano 2021, 15, 10437–10443**.
