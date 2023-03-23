@@ -35,7 +35,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 ## 2. Introduction to the Group's Advisor
 
-### About Associate Professor Wang Qixing
+### About Associate Professor Qixing Wang
 
 ![image](imgs/qxw.jpg)
 
