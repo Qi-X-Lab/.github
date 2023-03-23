@@ -33,12 +33,12 @@
 
 
 
-
 ## 2. Introduction to the Group's Advisor
 
 ### About Associate Professor Wang Qixing
 
 ![image](../imgs/qxw.jpg)
+
 **Wang Qixing**, Ph.D., Associate Professor, and Ph.D. supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. He was selected for the "Xiamen University Nanqiang Outstanding Young Talent Plan (Category B)". His research interests include low-dimensional semiconductor optoelectronic devices and optics. He has published more than 20 SCI papers in international high-impact journals such as Nat. Commun., Nano Lett., and ACS Nano. Each year, he recruits 1-2 Ph.D. students in condensed matter physics, semiconductor physics, and semiconductor device physics ("application-assessment system") and 2-3 master's students. 
 
 **Email**: [phyqxw@xmu.edu.cn](mailto:phyqxw@xmu.edu.cn) 
