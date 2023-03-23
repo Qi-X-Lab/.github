@@ -43,7 +43,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 **Email**: [phyqxw@xmu.edu.cn](mailto:phyqxw@xmu.edu.cn) 
 
-**Personal academic webpage**: [Qixing Wang]([https://scholar.google.com/citations?user=bog64TcAAAAJ])
+**Personal academic webpage**: [Qixing Wang](https://scholar.google.com/citations?user=bog64TcAAAAJ)
 
 **Office**:  Haiyun Park • Physics Building, No.222, Xiamen University.
 
@@ -51,6 +51,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 ## 3. Publications
 Before 2023
+
 23. S. Yang, S. Fecher, Q. Wang, M. Kühne, and J. H. Smet*, Device Level Reversible Potassium Intercalation into Bilayer Graphene, **2D Mater. 2022, 9, 025020**.
 22. Y. Zhang, D. Zhao, Q. Wang, and J. H. Smet*, In situ Raman Spectroscopy across Superconducting Transition of Liquid-Gated MoS2, **Appl. Phys. Lett. 2022, 120, 053106**.
 21. Q. Wang, J. Maisch, F. Tang, D. Zhao, S. Yang, R. Joos, S. L. Portalupi, P. Michler, and J. H. Smet*, Highly Polarized Single Photons from Strain-Induced Quasi-1D Localized Excitons in WSe2, **Nano Lett. 2021, 21, 7175–7182**.
