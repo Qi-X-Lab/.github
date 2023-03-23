@@ -39,7 +39,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 ![image](imgs/qxw.jpg)
 
-**Qixing Wang**, Ph.D., Associate Professor, and Ph.D. supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. His research interests include low-dimensional semiconductor optoelectronic devices and optics. Each year, he recruits 1-2 Ph.D. students in condensed matter physics, semiconductor physics, and semiconductor device physics ("application-assessment system") and 2-3 master's students. 
+**Qixing Wang**, Ph.D., Associate Professor, and Ph.D. supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. His research interests include low-dimensional semiconductor optoelectronic devices and optics. Each year, he recruits 1-2 Ph.D. students and 2-3 master's students in condensed matter physics, Optics, Microelectronics and Solid-State Electronics, Optoelectronic Information Engineering. 
 
 **Email**: [phyqxw@xmu.edu.cn](mailto:phyqxw@xmu.edu.cn) 
 
