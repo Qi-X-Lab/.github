@@ -2,9 +2,9 @@
 
 
 
-![logo-png](/Users/xingqiangchen/Documents/QXLLogos/logo-png.png)
+![logo-png](../imgs/logo-png.png)
 
-![image-20230323160711946](/Users/xingqiangchen/Library/Application Support/typora-user-images/image-20230323160711946.png)
+![image](../imgs/labexp.jpg)
 
 ** When** the size of a material is reduced to the nanoscale, its properties change, and quantum phenomena begin to emerge. These changes can have both positive and negative effects on the applications of the material. For example, in a single unit of a chip, the field-effect transistor, when its size is reduced to the nanoscale, thermal effects, short-channel effects, and quantum effects may cause the device's performance to approach its limit or even begin to decline. When two-dimensional semiconductors transition from bulk to a single layer, their bandgap increases due to quantum confinement effects. When free excitons are confined in a nanoscale quantum well, the light they emit changes from converging to diverging, and they transform from ordinary light sources to quantum light sources. Studying the physical phenomena of materials at the nanoscale and their device applications not only allows us to discover, summarize, and apply physical laws but also has a significant impact on the overall development of science and technology and social progress in our country.
 
@@ -38,6 +38,7 @@
 
 ### About Associate Professor Wang Qixing
 
+![image](../imgs/qxw.jpg)
 **Wang Qixing**, Ph.D., Associate Professor, and Ph.D. supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. He was selected for the "Xiamen University Nanqiang Outstanding Young Talent Plan (Category B)". His research interests include low-dimensional semiconductor optoelectronic devices and optics. He has published more than 20 SCI papers in international high-impact journals such as Nat. Commun., Nano Lett., and ACS Nano. Each year, he recruits 1-2 Ph.D. students in condensed matter physics, semiconductor physics, and semiconductor device physics ("application-assessment system") and 2-3 master's students. 
 
 **Email**: [phyqxw@xmu.edu.cn](mailto:phyqxw@xmu.edu.cn) 
