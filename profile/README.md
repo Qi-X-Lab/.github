@@ -52,7 +52,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 ## 3. Publications
 Before 2023
 
-23. S. Yang, S. Fecher, Q. Wang, M. Kühne, and J. H. Smet*, Device Level Reversible Potassium Intercalation into Bilayer Graphene, **2D Mater. 2022, 9, 025020**.
+1. S. Yang, S. Fecher, Q. Wang, M. Kühne, and J. H. Smet*, Device Level Reversible Potassium Intercalation into Bilayer Graphene, **2D Mater. 2022, 9, 025020**.
 
 22. Y. Zhang, D. Zhao, Q. Wang, and J. H. Smet*, In situ Raman Spectroscopy across Superconducting Transition of Liquid-Gated MoS2, **Appl. Phys. Lett. 2022, 120, 053106**.
 
