@@ -43,7 +43,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 **Email**: [phyqxw@xmu.edu.cn](mailto:phyqxw@xmu.edu.cn) 
 
-**Personal academic webpage**: [Qixing Wang](https://scholar.google.com/citations?user=bog64TcAAAAJ)
+**Personal academic webpage**: [Google Scholar](https://scholar.google.com/citations?user=bog64TcAAAAJ)
 
 **Office**:  Haiyun Park • Physics Building, No.222, Xiamen University.
 
