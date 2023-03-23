@@ -39,7 +39,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 ![image](imgs/qxw.jpg)
 
-**Qixing Wang**, Ph.D., Associate Professor, and Ph.D. supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. His research interests include low-dimensional semiconductor optoelectronic devices and optics. Each year, he recruits 1-2 Ph.D. students and 2-3 master's students in condensed matter physics, Optics, Microelectronics and Solid-State Electronics, Optoelectronic Information Engineering. 
+**Qixing Wang**, PhD, Associate Professor, and PhD supervisor. He is the leader of the Nanophysics and Device Research Group at Xiamen University. His research interests include low-dimensional semiconductor optoelectronic devices and optics. Each year, he recruits 1-2 PhD students and 2-3 master's students in condensed matter physics, Optics, Microelectronics and Solid-State Electronics, Optoelectronic Information Engineering. 
 
 **Email**: [phyqxw@xmu.edu.cn](mailto:phyqxw@xmu.edu.cn) 
 
@@ -52,7 +52,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 ## 3. Publications
 Before 2023
 
-1. S. Yang, S. Fecher, Q. Wang, M. Kühne, and J. H. Smet*, Device Level Reversible Potassium Intercalation into Bilayer Graphene, **2D Mater. 2022, 9, 025020**.
+23. S. Yang, S. Fecher, Q. Wang, M. Kühne, and J. H. Smet*, Device Level Reversible Potassium Intercalation into Bilayer Graphene, **2D Mater. 2022, 9, 025020**.
 
 22. Y. Zhang, D. Zhao, Q. Wang, and J. H. Smet*, In situ Raman Spectroscopy across Superconducting Transition of Liquid-Gated MoS2, **Appl. Phys. Lett. 2022, 120, 053106**.
 
