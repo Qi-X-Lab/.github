@@ -18,7 +18,7 @@ When the size of a material is reduced to the nanoscale, its properties change, 
 
 1.  Fluorescence upconversion 
 2.  Quantum emission control 
-3.  Interlayer exciton control 
+3.  Interlayer exciton physics 
 4.  Electron-phonon interactions
 5.  Defect-phonon interactions
 
